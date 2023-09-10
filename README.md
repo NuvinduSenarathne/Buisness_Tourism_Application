@@ -13,5 +13,4 @@ Tea Factory Management System is implemented to manage and ease the inside activ
           6. Kanakaratne M R (IT 20 2585 80)
           7. Kavinda W W H (IT 20 1394 76)
           8. Pabasara S M L (IT 20 2128 72)
-# Bit Lords
-Developing business tourism related application
+
